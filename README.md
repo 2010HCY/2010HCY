@@ -3,7 +3,9 @@
 大家好，我是一名 Ctrl+C、Ctrl+V 高级CV工程师🏆
 
 擅长 PS、Pr、Ae、Au、Ai、Dw、An、Id 等软件的安装与卸载😈
+
 精通 Html、CSS、JavaScript、Vue、React、PHP、Java、Python、C、C++、C#、Go、TypeScript 等单词的拼写🎃
+
 熟悉 Windows、Linux、Mac、Android、IOS 等系统的开关机👻
 
 ## 我的网站
