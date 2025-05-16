@@ -2,9 +2,10 @@
 
 ## 我的网站
 
-- 我的博客：[https://100713.xyz](https://100713.xyz)
-- 音乐：[https://music.100713.xyz](https://music.100713.xyz)
-- Flash收藏站：[https://flash.100713.xyz](https://flash.100713.xyz)
+- 我的博客：[https://teahush.link](https://teahush.link)
+- 音乐：[https://music.teahush.link](https://music.teahush.link)
+- Flash收藏站：[https://flash.teahush.link](https://flash.teahush.link)
+- Page页面：[https://page.teahush.link](https://page.teahush.link)
 - 我的电子邮件地址：[Ethaniel@100713.xyz](mailto:Ethaniel@100713.xyz) [公钥](https://100713.xyz/.well-known/pgp-key.txt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2010HCY)
